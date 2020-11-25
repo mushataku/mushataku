@@ -25,7 +25,10 @@
 2020/04 筑波大学大学院 数理物質科学研究群 物理学専攻 入学  
 2020/08/3-7 [Galaxy-IGM Workshop 2020](https://www2.ccs.tsukuba.ac.jp/Astro/conferences/domestic/en/2020/08/03/galaxy-igm/) 参加  
 2020/08/24-27 [天文・天体物理若手 夏の学校 2020](http://astro-wakate.org/ss2020/) 参加（口頭発表）  
-2020/09/14,15 [CCS HPCサマーセミナー2020](https://www2.ccs.tsukuba.ac.jp/workshop/HPCseminar/2020/) 参加  
+2020/09/14,15 [CCS HPCサマーセミナー 2020](https://www2.ccs.tsukuba.ac.jp/workshop/HPCseminar/2020/) 参加  
+2020/11/6,7 [天体形成研究会 2020](https://www2.ccs.tsukuba.ac.jp/Astro/conferences/ccs/ja/2020/11/06/tentaikeisei/) 口頭発表
+2020/11/16,17,18 [初代星・初代銀河研究会 2020](https://sites.google.com/view/fsfg2020/) 参加
+
 
 # Study
 ## 研究
