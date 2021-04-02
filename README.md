@@ -1,7 +1,7 @@
 # 自己紹介
 ## プロフィール
 名前    ：武者野拓也（むしゃのたくや）  
-学年    ：修士１年  
+学年    ：修士２年  
 所属    ：[筑波大学宇宙物理理論研究室](https://www2.ccs.tsukuba.ac.jp/Astro/home/ja/)  
 メール  ：mushano@ccs.tsukuba.ac.jp  
 指導教員：[大須賀健](https://www2.ccs.tsukuba.ac.jp/people/ohsuga/index.html)  
