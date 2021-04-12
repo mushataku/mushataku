@@ -20,6 +20,7 @@
 - スキー
 - サッカー
 - 将棋（アマ二段くらい）
+- ボードゲーム（カタンとか）
 
 # 更新情報
 2020/04 筑波大学大学院 数理物質科学研究群 物理学専攻 入学  
@@ -28,7 +29,7 @@
 2020/09/14,15 [CCS HPCサマーセミナー 2020](https://www2.ccs.tsukuba.ac.jp/workshop/HPCseminar/2020/) 参加  
 2020/11/6,7 [天体形成研究会 2020](https://www2.ccs.tsukuba.ac.jp/Astro/conferences/ccs/ja/2020/11/06/tentaikeisei/) 口頭発表  
 2020/11/16,17,18 [初代星・初代銀河研究会 2020](https://sites.google.com/view/fsfg2020/) 参加  
-12,23,24,25（予定） [理論懇シンポジウム 2020](https://sites.google.com/view/rironkon20/) ポスター発表
+12,23,24,25 [理論懇シンポジウム 2020](https://sites.google.com/view/rironkon20/) ポスター発表
 
 
 # Study
