@@ -29,10 +29,10 @@
 2020/09/14,15 [CCS HPCサマーセミナー 2020](https://www2.ccs.tsukuba.ac.jp/workshop/HPCseminar/2020/) 参加  
 2020/11/6,7 [天体形成研究会 2020](https://www2.ccs.tsukuba.ac.jp/Astro/conferences/ccs/ja/2020/11/06/tentaikeisei/) 口頭発表  
 2020/11/16,17,18 [初代星・初代銀河研究会 2020](https://sites.google.com/view/fsfg2020/) 参加  
-2020/12/23,24,25 [理論懇シンポジウム 2020](https://sites.google.com/view/rironkon20/) ポスター発表 -
+2020/12/23,24,25 [理論懇シンポジウム 2020](https://sites.google.com/view/rironkon20/) ポスター発表  
 2021/09/13 [日本天文学会2021年秋季年会](https://www.asj.or.jp/nenkai/archive/2021b/) 口頭発表  
-2021/10/22,23 [天体形成研究会 2021](https://www2.ccs.tsukuba.ac.jp/Astro/conferences/ccs/ja/2021/10/22/tentaikeisei/) 口頭発表
-2022/1/24,25 ブラックホールジェット・降着円盤・円盤風研究会 2022  口頭発表
+2021/10/22,23 [天体形成研究会 2021](https://www2.ccs.tsukuba.ac.jp/Astro/conferences/ccs/ja/2021/10/22/tentaikeisei/) 口頭発表  
+2022/1/24,25 ブラックホールジェット・降着円盤・円盤風研究会 2022  口頭発表  
 
 # Study
 ## 研究
